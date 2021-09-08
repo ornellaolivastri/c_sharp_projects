@@ -1,0 +1,14 @@
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.AssemblyInfoInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.AssemblyInfo.cs
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\bin\Debug\netcoreapp3.1\structures_in_c_sharp.exe
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\bin\Debug\netcoreapp3.1\structures_in_c_sharp.deps.json
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\bin\Debug\netcoreapp3.1\structures_in_c_sharp.runtimeconfig.json
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\bin\Debug\netcoreapp3.1\structures_in_c_sharp.runtimeconfig.dev.json
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\bin\Debug\netcoreapp3.1\structures_in_c_sharp.dll
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\bin\Debug\netcoreapp3.1\structures_in_c_sharp.pdb
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.dll
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.pdb
+D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\structures_in_c_sharp\obj\Debug\netcoreapp3.1\structures_in_c_sharp.genruntimeconfig.cache
