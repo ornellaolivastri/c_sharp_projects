@@ -12,7 +12,15 @@ namespace give_higher_lower
         {
             // GIVE HIGHER ----------------------------
 
-            int a = 1, b = 3, c = 2;
+            Console.WriteLine("Escribe el numero a: ");
+            //int a = Console.ReadLine(); esto no se puede utilizar porque no se puede
+            //                            modificar un tipo int a un tipo string
+            // Hay que "parcear" el valor, o sea cambiar su tipo para que se adapte
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Escribe el numero b: ");
+            int b = int.Parse(Console.ReadLine());
+            Console.WriteLine("Escribe el numero c: ");
+            int c = int.Parse(Console.ReadLine());
 
             if(a > b) // a es mayor que b
             {

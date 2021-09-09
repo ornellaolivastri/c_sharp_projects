@@ -5,3 +5,10 @@ D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\g
 D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.csproj.CoreCompileInputs.cache
 D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.exe
 D:\Usuario\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.pdb
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.exe
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\obj\Debug\give_higher_lower.pdb
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\bin\Debug\give_higher_lower.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\bin\Debug\give_higher_lower.exe
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\give_higher_lower\bin\Debug\give_higher_lower.pdb

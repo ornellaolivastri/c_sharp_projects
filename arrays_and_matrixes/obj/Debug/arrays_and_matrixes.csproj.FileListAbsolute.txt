@@ -1,0 +1,7 @@
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\bin\Debug\arrays_and_matrixes.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\bin\Debug\arrays_and_matrixes.exe
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\bin\Debug\arrays_and_matrixes.pdb
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\obj\Debug\arrays_and_matrixes.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\obj\Debug\arrays_and_matrixes.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\obj\Debug\arrays_and_matrixes.exe
+D:\Usuarios\Orne\Desktop\proyectos\c_sharp_projects\arrays_and_matrixes\obj\Debug\arrays_and_matrixes.pdb
